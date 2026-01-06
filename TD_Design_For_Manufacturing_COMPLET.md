@@ -2,8 +2,6 @@
 ## Conception d'un chapeau de maintien de joint a levres
 ### Famille de procedes : FONDERIE
 
-**ESILV - Ecole d'Ingenieurs**
-
 ---
 
 # TABLE DES MATIERES
